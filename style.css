@@ -32,20 +32,22 @@ span {
   padding: 8px 15px;
   border-radius: 15px;
 }
-.recipes {
+.cards {
   display: flex;
   justify-content: space-between;
   margin: 5%;
 }
-.recipes img {
+.cards img {
   width: 80%;
+  display: block;
+  margin: 0px auto;
 }
-.menu {
+.card {
   width: 50%;
   box-shadow: 5px 5px 20px #888888;
   padding: 40px;
   margin: 2%;
 }
-.menu p {
+.card p {
   text-align: justify;
 }
