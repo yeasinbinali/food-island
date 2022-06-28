@@ -32,3 +32,20 @@ span {
   padding: 8px 15px;
   border-radius: 15px;
 }
+.recipes {
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+}
+.recipes img {
+  width: 80%;
+}
+.menu {
+  width: 50%;
+  box-shadow: 5px 5px 20px #888888;
+  padding: 40px;
+  margin: 2%;
+}
+.menu p {
+  text-align: justify;
+}
