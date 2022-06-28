@@ -7,6 +7,9 @@ body {
   background-color: none;
   color: blue;
 }
+h1 {
+  font-size: 30px;
+}
 .header {
   display: flex;
   background-image: url(images/background.jpeg);
@@ -24,7 +27,7 @@ span {
 }
 .link-btn {
   color: white;
-  background-image: linear-gradient(tomato, salmon);
+  background-image: linear-gradient(rgb(255, 51, 16), #ff6352);
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 15px;
