@@ -51,3 +51,17 @@ span {
 .card p {
   text-align: justify;
 }
+.marketing {
+  display: flex;
+  margin: 40px 0px;
+}
+.offer-sec {
+  width: 50%;
+}
+.offer-sec img {
+  display: block;
+  margin: 0px auto;
+}
+.offer-sec input {
+  margin-bottom: 30px;
+}
