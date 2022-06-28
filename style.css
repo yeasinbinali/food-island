@@ -1,0 +1,31 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-family: "Rubik", sans-serif;
+  margin: 0;
+}
+::selection {
+  background-color: none;
+  color: blue;
+}
+.header {
+  display: flex;
+  background-image: url(images/background.jpeg);
+}
+.half-width {
+  width: 50%;
+  text-align: justify;
+  padding: 50px 40px;
+}
+.half-width img {
+  width: 80%;
+}
+span {
+  color: rgb(255, 53, 17);
+}
+.link-btn {
+  color: white;
+  background-image: linear-gradient(tomato, salmon);
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 15px;
+}
