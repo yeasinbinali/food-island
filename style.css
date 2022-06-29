@@ -67,10 +67,19 @@ span {
 }
 .about {
   display: flex;
+  margin: 30px 0px;
 }
 .chef img {
   display: block;
   margin: 0px auto;
   border-left: 5px solid rgb(255, 53, 17);
   border-radius: 12px;
+}
+.followers {
+  display: flex;
+  justify-content: space-evenly;
+  box-shadow: 1px 1px 5px #888888;
+  margin: 40px 200px;
+  padding: 20px 10px;
+  border-radius: 20px;
 }
